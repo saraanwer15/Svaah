@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E444E4F725192ADE0098B2C8 /* Free_Trial_Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = E444E4F625192ADE0098B2C8 /* Free_Trial_Page.swift */; };
 		E48926CD2518F03800471ED4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48926CC2518F03800471ED4 /* AppDelegate.swift */; };
 		E48926CF2518F03800471ED4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48926CE2518F03800471ED4 /* SceneDelegate.swift */; };
 		E48926D12518F03800471ED4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48926D02518F03800471ED4 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E444E4F625192ADE0098B2C8 /* Free_Trial_Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Free_Trial_Page.swift; sourceTree = "<group>"; };
 		E48926C92518F03800471ED4 /* Shvaas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shvaas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E48926CC2518F03800471ED4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E48926CE2518F03800471ED4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				E48926CC2518F03800471ED4 /* AppDelegate.swift */,
 				E48926CE2518F03800471ED4 /* SceneDelegate.swift */,
 				E48926D02518F03800471ED4 /* ViewController.swift */,
+				E444E4F625192ADE0098B2C8 /* Free_Trial_Page.swift */,
 				E48926D22518F03800471ED4 /* Main.storyboard */,
 				E48926D52518F03A00471ED4 /* Assets.xcassets */,
 				E48926D72518F03A00471ED4 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E48926D12518F03800471ED4 /* ViewController.swift in Sources */,
+				E444E4F725192ADE0098B2C8 /* Free_Trial_Page.swift in Sources */,
 				E48926CD2518F03800471ED4 /* AppDelegate.swift in Sources */,
 				E48926CF2518F03800471ED4 /* SceneDelegate.swift in Sources */,
 			);
